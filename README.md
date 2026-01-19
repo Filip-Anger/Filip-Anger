@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, am Filip!
 
+🔭 I’m currently studying <b>Computer Science</b> at [TU/e](https://www.tue.nl/en/our-university) <br/>
+💬 I think humas should work together at a global scale <br/>
+🤔 I want to improve that using technology! <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filip-Anger&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Filip-Anger/Filip-Anger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
