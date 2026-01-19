@@ -1,8 +1,8 @@
 ## Hi, am Filip!
 
 🔭 I’m currently studying <b>Computer Science</b> at [TU/e](https://www.tue.nl/en/our-university) <br/>
-🤖 I do projects implementing AI features
-💬 I think humas should work together at a global scale <br/>
+🤖 I do projects implementing AI features <br/>
+💬 I think humas should work together at a global scale 
 🤔 I want to improve that using technology! <br/>
 
 
